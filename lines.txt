@@ -1,0 +1,4 @@
+      0 five.txt
+      5 sorted_temp_observations.txt
+      4 temp_observations.txt
+      9 total
